@@ -17,6 +17,14 @@ Report is generated summarizing chart information from pictures with:
 **Case2:** bar chart with legend in the top right corner.  
 **Case3:** pie chart with legend at any position.  
 **Case4:** bar chart with legend at any position.
+# References
+**Digital Image Processing**, 3rd edition, Rafael C.  
+Gonzalez and Richard E.Woods, Prentice Hall, 2008.  http://www.imageprocessingplace.com
+1.	Ch. 6: Color Image Processing
+2.	Ch. 9:  Morphological Image Processing
+3.	Ch.10: Image Segmentation
+4.	Ch. 11: Representation and Description
+
 
 
 
