@@ -12,6 +12,12 @@ Report is generated summarizing chart information from pictures with:
 2.	Different legend positions.
 3.	Legend is surrounded by a black border.
 4.	Interpreting a bar chart with its max value appeared on a horizontal line on the y-axis.
+# Techniques
+1.	Color-based segmentation
+2.	Hough transform
+3.	Text detection/segmentation 
+4.	Region properties
+5.	Digits detection/recognition
 # Test Images:
 **Case1:** pie chart with legend in the top right corner.  
 **Case2:** bar chart with legend in the top right corner.  
@@ -22,7 +28,7 @@ Report is generated summarizing chart information from pictures with:
 Gonzalez and Richard E.Woods, Prentice Hall, 2008.  http://www.imageprocessingplace.com
 1.	Ch. 6: Color Image Processing
 2.	Ch. 9:  Morphological Image Processing
-3.	Ch.10: Image Segmentation
+3.	Ch. 10: Image Segmentation
 4.	Ch. 11: Representation and Description
 
 
