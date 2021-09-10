@@ -6,5 +6,25 @@ which presents categorical data with rectangular bars of heights proportional to
 **Pie charts** are also used Sometimes to illustrate numerical proportions.Interpreting such charts visually may not produce an accurate results.  
 In this application, statistical charts are interpreted and information are extracted  from them programmatically. Given an image that contains  
 a statistical chart and the color of each category (i.e. legend), program should extract statistical information in a textual form.
+# In this project:
+Report is generated summarizing chart information from pictures with:
+1.	A bar chart or a pie chart.
+2.	Different legend positions.
+3.	Legend is surrounded by a black border.
+4.	Interpreting a bar chart with its max value appeared on a horizontal line on the y-axis.
+# Test Images:
+**Case1:** pie chart with legend in the top right corner.  
+**Case2:** bar chart with legend in the top right corner.  
+**Case3:** pie chart with legend at any position.  
+**Case4:** bar chart with legend at any position.
+
+
+
+
+
+
+
+
+
 
 
